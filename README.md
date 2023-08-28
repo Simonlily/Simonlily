@@ -4,9 +4,7 @@
 
 ---
 - **Coding Learning**: Studying **C++/Python/HTMl/JavaScript/CSS**
-
 - **Personal Website**: WIP, Thanks for any suggestion about my [personal homepage](https://simonlily.github.io/)!
-
 - **Aaron_ZSAM Official** Here's my [darling❤](https://github.com/AaronZSAM101)
 
 **...**
