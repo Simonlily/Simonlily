@@ -1,5 +1,6 @@
 ### Hi there 👋, here is Xingyu, a little & cute cat~~
-![微信图片_20230828210427](https://github.com/Simonlily/Simonlily/assets/92258568/79f20df2-402e-45cf-a4f5-0b51959a85f3)
+![微信图片_20230828210427](https://github.com/Simonlily/Simonlily/assets/92258568/1e9e7b79-435b-4749-bd4e-8c8d82c1f41c)
+
 
 ---
 - **Coding Learning**: Studying **C++/Python/HTMl/JavaScript/CSS**
